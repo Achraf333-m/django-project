@@ -1,3 +1,7 @@
 {
-    "python.pythonPath" : "C:\\Users\\achra\\.virtualenvs\\storefront-BtS-1UW2\\Scripts\\python"
+    "python.pythonPath": "C:\\Users\\achra\\.virtualenvs\\storefront-BtS-1UW2\\Scripts\\python",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none"
 }
